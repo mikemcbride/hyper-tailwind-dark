@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Dark Hyper theme based on Tailwind color palette",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "hyper-tailwind-dark"
